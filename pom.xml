@@ -7,7 +7,7 @@
 	<name>shibeichuan-common-utils</name>
 	<description>shibeichuan-common-utils</description>
 	<properties>
-		<junit-version>4.12</junit-version>
+		<junit-version>4.13.1</junit-version>
 	</properties>
 	<dependencies>
 		<!-- 单元测试 -->
